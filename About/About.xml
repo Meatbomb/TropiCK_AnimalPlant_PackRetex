@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>TropiCKAPP Retexture</name>
+
+    <author>Meatbomb</author>
+
+    <url>https://ludeon.com/forums/index.php?topic=33902</url>
+
+    <targetVersion>0.17.0</targetVersion>
+
+<description>Re-texture plants in TropiCKAPP mod.
+
+					########CAUTION########
+
+You must put this mod after TropiCKAPP mod in mod order</description>
+
+</ModMetaData>
